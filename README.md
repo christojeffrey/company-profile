@@ -2,5 +2,5 @@
 
 1. satu
 2. dua
-3. tiga
+3. miftah
 4. em
