@@ -1,6 +1,7 @@
 # company-profile
 
-1. satu
-2. dua
-3. miftah
+1. fandi
+2. jeff
+3. tiga
 4. em
+5. anggie
